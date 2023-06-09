@@ -1,4 +1,10 @@
-"Camera":
-  "Camera": '"Camera"OR"multi camera"OR"video"'
-"ocr":
-  "Camera": '"ocr"'
+"Healthcare":
+  "Healthcare": '"Healthcare" OR "hospital"'
+
+"Cartoon":
+  "Cartoon": '"Cartoon"'
+
+
+"Tiktok":
+  "tiktok": '"tiktok"OR"douyin"'
+
